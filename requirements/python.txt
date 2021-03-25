@@ -12,7 +12,7 @@ docutils==0.14            # via awscli, botocore
 jmespath==0.9.4           # via boto3, botocore
 pyasn1==0.4.5             # via rsa
 python-dateutil==2.8.0    # via botocore
-pyyaml==3.13              # via awscli
+pyyaml==5.4              # via awscli
 rsa==3.4.2                # via awscli
 s3transfer==0.2.0         # via awscli, boto3
 six==1.12.0               # via python-dateutil
